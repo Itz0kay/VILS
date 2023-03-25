@@ -14,8 +14,8 @@ Following are the link for better navigation of the project:
 
 For content management
 
-http://127.0.0.1:8000/content/list
-http://127.0.0.1:8000/content/detail/1
-http://127.0.0.1:8000/content/detail/2 (Add form data to the raw forms and change 
+http://127.0.0.1:8000/api/list
+http://127.0.0.1:8000/api/detail/1
+http://127.0.0.1:8000/api/detail/2 (Add form data to the raw forms and change 
 method to put to update the content) 
 Same for deletion just change metod to delete with the same link
